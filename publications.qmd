@@ -1,0 +1,35 @@
+---
+title: "Publications"
+description: "Peer-reviewed papers and ongoing manuscripts"
+---
+
+Publications are grouped by status to distinguish published, peer-reviewed work from ongoing manuscripts. My name is **bolded** in the author lists.
+
+## Peer-reviewed journal articles
+
+**2025** · **Genc, U.**, Johnson, D. R., Fischbach, J. R., Grismore, A., Haertling, A., Hemmerling, S., & Kane, P. **Evaluating critical and essential service access vulnerabilities.** *Environmental Research Letters*, 20(8), 084060. [Journal article](https://doi.org/10.1088/1748-9326/adee30) · [DOI](https://doi.org/10.1088/1748-9326/adee30)
+
+**2025** · Hardaway, K., **Genc, U.**, Cai, H., & Nateghi, R. **Electric vehicle adoption and planning: The increasing importance of the built environment.** *Journal of Transport Geography*, 123, 104115. [Journal article](https://doi.org/10.1016/j.jtrangeo.2025.104115) · [DOI](https://doi.org/10.1016/j.jtrangeo.2025.104115)
+
+**2024** · **Genc, U.**, Hardaway, K., Landrum, N. E., & Mulrow, J. **Emerging concerns in sustainability reporting: Disclosure of tertiary effects in the home appliance industry.** *Cleaner and Responsible Consumption*, 15, 100235. [Journal article](https://doi.org/10.1016/j.clrc.2024.100235) · [DOI](https://doi.org/10.1016/j.clrc.2024.100235)
+
+## Under review
+
+- **Genc, U.**, He, Q., Ganji, V., & Lou, J. **Cost of Green Mobility: Assessing the Equity Implications of Electric Vehicle Charging Infrastructure Development on Urban Housing Affordability.** *Under review.*
+
+- **Genc, U.**, Patino, E. D., Ma, Y., Wang, H.H., Ramirez, J. A., Dyke, S J., Johnson, D. R. **Community Centered Risk Mitigation: a Case Study of Seismic Retrofit Decisions.** *Under review*
+
+## Manuscripts in preparation
+
+The following projects are in preparation and should **not** be interpreted as published or accepted papers.
+
+- **Genc, U.**, Wang, Z., & Johnson, D. R. *Regional and Demographic Differences in Health Care Access in the USA.*
+- **Genc, U.**, Luo, H., & Cai, H. *Analyzing Mode Choice and Mobility Option Equity Using GPS Data.*
+- **Genc, U.** & Johnson, D. R. *Nationwide Fragility of Essential Service Access and Criticality of Facilities.*
+- **Genc, U.**, Chiesara, A., Johnson, D. *Distributional Justice in Essential Service Access: A Nationwide Analysis of Sociodemographic Inequities.* 
+- **Genc, U.**, Hardaway, K. *Integrating re-spending into STIRPAT equation to measure rebound effect.*
+
+## Conference papers
+
+- Anwar, S., Menekse, M., Guzey, S. S., Bogan, V. L., Smeathers, S. C., Jung, J. Y., & **Genc, U.** (2019). *Effect of integrated life science units on middle school students' engagement.* ASEE Annual Conference & Exposition.
+- Anwar, S., Menekse, M., Guzey, S. S., Bogan, V. L., Glover, M. J., **Genc, U.**, & Bryan, L. A. (2020). *Role of engagement in predicting sixth-grade students' performance in an integrated STEM life sciences unit.* ASEE Virtual Annual Conference.

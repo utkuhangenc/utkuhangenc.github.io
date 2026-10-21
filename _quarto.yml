@@ -1,0 +1,53 @@
+# Academic website for Utkuhan Genc — edit the .qmd files to update content.
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+    - teaching.qmd
+    - talks.qmd
+    - cv.qmd
+
+website:
+  title: "Utkuhan Genc"
+  description: "Research in equitable mobility, critical service access, and climate resilience"
+  favicon: assets/favicon.svg
+  navbar:
+    pinned: true
+    left:
+      - text: About
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Talks
+        href: talks.qmd
+      - text: CV
+        href: cv.qmd
+    right:
+      - icon: envelope
+        aria-label: Email
+        href: mailto:ugenc@purdue.edu
+  page-footer:
+    left: '© 2026 Utkuhan Genc · Made with [Quarto](https://quarto.org/)'
+    right: '[Contact](mailto:ugenc@purdue.edu)'
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    fontsize: 17px
+    grid:
+      body-width: 1000px
+      gutter-width: 1.6rem
+
+execute:
+  freeze: auto

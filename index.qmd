@@ -1,0 +1,32 @@
+---
+title: "Utkuhan Genc"
+image: assets/images/Utku_Headshot.jpg
+about:
+  template: jolla
+  image-width: 16em
+  image-shape: round
+  links:
+    - text: "Email"
+      icon: envelope
+      href: mailto:ugenc@purdue.edu
+    - text: "Publications"
+      icon: journal-text
+      href: publications.qmd
+    - text: "Curriculum Vitae"
+      icon: file-earmark-person
+      href: cv.qmd
+---
+
+I am a **Ph.D. candidate in Edwardson School of Industrial Engineering at [Purdue University](https://engineering.purdue.edu/IE)**, advised by [Professor David R. Johnson](https://engineering.purdue.edu/IE/people/ptProfile?resource_id=126281), and a **Climate Risk Specialist at [Arcadis](https://www.arcadis.com/)**. My research examines how changes in urban and infrastructure systems shape access to critical and essential services (CES) and opportunities, how climate and natural hazards compound existing disparities, and how planners can incorporate community priorities and deep uncertainty into consequential decisions. 
+
+My research lies at the intersection of urban mobility, infrastructure resilience, community-centered climate adaptation, and equitable  planning. I combine computational and geospatial modeling, transportation-network analysis, systems modeling, risk and decision science, and community-engaged research to understand how regional and environmental change affect communities and translate these insights into equitable, resilient, and community-informed planning decisions.
+
+A central part of my research studies **access to critical and essential services**. In [published work on service-access vulnerabilities](https://doi.org/10.1088/1748-9326/adee30), my coauthors and I examined how limited alternatives to schools, hospitals, and other facilities can make communities vulnerable to disruption. I am extending this work to nationwide accessibility disparities and to the effects of coastal flooding and sea-level rise on community function. [Learn more about this research](research.qmd#essential-service-access-and-community-resilience). 
+
+I also study **transportation equity and the built environment** including mobility options beyond the private automobile, [the evolving importance of the built environment for electric-vehicle adoption](https://doi.org/10.1016/j.jtrangeo.2025.104115), and potential housing-affordability implications of charging-infrastructure development. Complementary climate mitigation work that focuses on rebound effects examines [sustainability reporting and indirect environmental effects](https://doi.org/10.1016/j.clrc.2024.100235).
+
+Across these projects, my research is guided by a central question: **How can we plan and adapt urban and infrastructure systems to expand access, reduce inequities, and remain responsive to community priorities under environmental change and uncertainty?**
+
+Drawing on interdisciplinary academic collaborations and applied climate-risk practice, I combine computational and systems-based approaches with community knowledge to develop analytical frameworks and decision-support tools that help planners, agencies, and communities make more equitable, resilient, and robust decisions.
+
+For more details, see my [research](research.qmd), [publications](publications.qmd), [teaching](teaching.qmd), and [selected talks](talks.qmd). You can reach me at [ugenc@purdue.edu](mailto:ugenc@purdue.edu).

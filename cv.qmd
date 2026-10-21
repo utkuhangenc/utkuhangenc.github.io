@@ -1,0 +1,70 @@
+---
+title: "Curriculum Vitae"
+toc: true
+toc-depth: 2
+---
+
+This page highlights selected education, research and professional experience, grant development, teaching, mentorship, and service. For publications and presentations, see my [Publications](publications.qmd) and [Talks](talks.qmd) pages.
+
+## Education
+
+- **Ph.D. in Industrial Engineering (expected 2027)** — Purdue University, Edwardson School of Industrial Engineering. Advisor: David R. Johnson. Dissertation: *Community-Centered Measures for Natural Hazards Risk Management*.
+- **M.S. in Industrial Engineering (2022)** — Purdue University. Advisor: Hua Cai. Thesis: *Assessing Transportation Equity Considering Individual Travel Demand and the Feasibility of Trip Mode Alternatives*.
+- **B.S. in Industrial Engineering (2020)** — Purdue University. Minors in Applied Statistics and Economics.
+
+## Research and Professional Experience
+
+- **Climate Risk Specialist, Arcadis (2026).** Contributed to statewide transportation flood-risk assessment and developed a robustness-based, multi-criteria approach to infrastructure prioritization. Client and project-specific details remain confidential.
+- **Graduate Research Assistant, Purdue University (2023–2026).** NSF-funded research on incorporating community impacts and equity into seismic retrofit decisions and natural-hazard risk mitigation.
+- **Graduate Research Assistant, Purdue University (2022–2023).** NASEM Gulf Research Program project on incorporating equity and social vulnerability into flood-risk mitigation strategies.
+- **Visiting Researcher, Rowan University (2025).** Community Action for Resilience and Equity (CARE) Lab, Department of Geography, Planning, and Sustainability.
+- **Visiting Researcher, University of Canterbury, New Zealand (2024).** Department of Civil and Natural Resources Engineering.
+- **Graduate Consultant, Purdue Manufacturing Extension Partnership (2021–2022).** Applied operations research and process analysis to manufacturing challenges.
+
+## Research Grants and Proposal Development
+
+### Funded Research
+
+**Arête Glacier Initiative — *Resilience and Risk Management of Impacts of Sea Level Rise on Essential Services and Community Function***  
+**$100,000 · Funded · Submitted March 2026**  
+Project team: David Johnson (PI), Kelsea Best (co-PI), Utkuhan Genc, and Alyssa Pletcher.  
+**Role:** Research concept developer and lead proposal writer; developed the research concept and led preparation of the proposal.
+
+### Additional Proposal Development
+
+The following proposals were not funded. Roles distinguish direct proposal writing from research conceptualization.
+
+- **NASEM Gulf Research Program, Evidence to Action (2026)** — *Infrastructure Planning Informed by the Social Impacts of Disruptions to Critical and Essential Services*. **$200,000 requested.** Research conceptualization: developed ideas and a methodological framework that informed the proposal. PI: David Johnson; named key personnel included Utkuhan Genc.
+- **Department of Homeland Security (2024)** — *County-Level Isolation Risk from Terrorism: A Risk-Driven Platform for Visualizing Impacts*. **$500,000 requested.** Contributing proposal writer: developed technical risk-assessment and modeling components. PI: Allison Reilly.
+- **NSF RAISE: CHIRRP (2024)** — *Adaptive Policy Pathways to Equitably Manage Hydrologic Threats to Coastal Infrastructure Serviceability*. **$1,000,000 requested.** Contributing proposal writer: developed research context and content on sea-level-rise impacts on infrastructure. PI: David Johnson.
+- **National Cooperative Highway Research Program (NCHRP) (2024)** — *Impacts of Climate Change and Extreme Weather on the Mobility of Socially Vulnerable Populations*. **$496,530 requested.** Research conceptualization: contributed original ideas and methodological framing. PI: Kelsea Best.
+- **NSF Smart and Connected Communities (S&CC)** — *SCC-IRG Track 2: IMPACT: Infrastructure Maintenance Planning with Adaptive Community-Centered Technologies*. **$1,500,000 requested.** Contributing proposal writer: co-developed the socio-technical framework and equity-focused evaluation measures. PI: Mohammad Jahanshahi.
+
+## Teaching and Mentorship
+
+- **Guest Lecturer, Engineering Economics (IE 343), Purdue University (2022).** Delivered a lecture on replacement analysis.
+- **Teaching Assistant, Industrial Engineering Design (IE 431), Purdue University (2021).**
+- **Teaching Assistant, Engineering Economics (IE 343), Purdue University (2021).**
+- **Research mentorship.** Mentored 3 undergraduate and 5 graduate researchers working on interdisciplinary engineering and applied research projects.
+- **Graduate Certificate in Teaching and Learning in Engineering**, [School of Engineering Education](https://engineering.purdue.edu/ENE/Academics/Graduate/certificate), Purdue University — in progress.
+
+For more about my teaching approach, see [Teaching](teaching.qmd).
+
+## Selected Honors and Awards
+
+- **Society for Risk Analysis Travel Award** — 2026.
+- **Merit Award**, Society for Risk Analysis, Justice, Equity, and Risk Specialty Group — 2025.
+- **Third Place, State of the Coast Oral Competition**, Coalition to Restore Coastal Louisiana — 2025.
+- **A. H. Ismail Interdisciplinary Travel Support Grant**, Purdue University — 2025.
+- **Frederick N. Andrews Environmental Travel Grant**, Purdue University - 2023.
+- **Lee A. Chaden Fellowship in Industrial Engineering**, Purdue University — 2021–2023.
+
+## Academic and Professional Service
+
+- **Co-Chair of Membership**, Natural Hazards Engineering Research Infrastructure (NHERI) Graduate Student Council — 2025–2026.
+- **Graduate Student Representative**, Purdue Climate Active Collective — 2023.
+- **Director**, Industrial Engineering Research Symposium, Purdue University — 2023.
+- **Senator**, Purdue Graduate Student Government — 2022.
+- **Journal peer review**, including *Nature Communications*, *Cities*, *Planning Practice & Research*, *ASCE Journal of Infrastructure Systems*, *Integrated Environmental Assessment and Management*, *International Journal of Lean Six Sigma*, and *Frontiers in Public Health*
+
+For selected invited and conference presentations, see [Talks](talks.qmd). [Contact me](mailto:ugenc@purdue.edu) to request a full CV.

@@ -1,0 +1,23 @@
+---
+title: "Teaching & Mentoring"
+---
+
+I approach teaching as an opportunity to help students connect analytical tools with the social and practical contexts in which decisions are made. My goal is to make quantitative concepts approachable while giving students experience with open-ended, interdisciplinary problems.
+
+## Teaching experience
+
+- **Guest Lecturer — IE 343: Engineering Economics**, Purdue University (Fall 2022). Topic: replacement analysis; approximately 200 students.
+- **Teaching Assistant — IE 431: Industrial Engineering Design**, Purdue University (Spring 2021). Senior design course, with in-person and online students.
+- **Teaching Assistant — IE 343: Engineering Economics**, Purdue University (Fall 2021). Supported instruction for in-person and online students.
+
+## Courses I Am Interested in Teaching
+
+My interdisciplinary background in industrial engineering, transportation research, and applied climate-risk planning positions me to contribute to undergraduate and graduate courses in **urban transportation and accessibility, geographic information systems (GIS) and spatial analysis, climate risk and infrastructure resilience, engineering economics, decision analysis, and sustainable urban systems**. I am particularly interested in teaching courses that connect quantitative and computational methods with questions of equity, sustainability, and environmental planning.
+
+Across these areas, my teaching approach emphasizes connecting analytical methods to real-world challenges. I aim to help students develop strong technical foundations while critically examining the assumptions, uncertainties, and societal implications of the tools they use. I am also interested in developing interdisciplinary courses that bridge infrastructure systems, urban planning, and community-centered decision-making.
+
+## Mentorship
+
+I view mentorship as an opportunity to help students develop not only technical expertise but also intellectual independence, critical thinking, and an appreciation for the broader societal implications of their research. My experience mentoring undergraduate and graduate researchers from different disciplinary backgrounds has reinforced the importance of adapting guidance to students' individual interests, experiences, and professional goals.
+
+My mentoring approach emphasizes collaborative learning, progressive independence, and meaningful engagement with research problems. I aim to create an environment where students feel comfortable exploring new methods, questioning assumptions, and contributing their own perspectives. Through interdisciplinary and applied research opportunities, I hope to support students in developing the analytical, communication, and collaborative skills necessary to address complex challenges in academia, industry, and public service.
