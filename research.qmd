@@ -128,7 +128,7 @@ Beyond seismic risk, I aim to develop transferable approaches that enable commun
 
 ### Selected Publications and Ongoing Manuscripts
 
-- [Community Centered Risk Mitigation: a Case Study of Seismic Retrofit Decisions]((https://doi.org/10.2139/ssrn.7629364)- Under review, *International Journal of Disaster Risk Reduction*.
+- [Community Centered Risk Mitigation: a Case Study of Seismic Retrofit Decisions](https://doi.org/10.2139/ssrn.7629364)- Under review, *International Journal of Disaster Risk Reduction*.
 
 *Methods:* Best-Worst Scaling, discrete-choice modeling, and community-engaged research
 
